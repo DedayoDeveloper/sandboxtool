@@ -1,0 +1,15 @@
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\SandBoxTool.exe
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\SandBoxTool.deps.json
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\SandBoxTool.runtimeconfig.json
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\SandBoxTool.runtimeconfig.dev.json
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\SandBoxTool.dll
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\ref\SandBoxTool.dll
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\bin\Release\net5.0\SandBoxTool.pdb
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.GeneratedMSBuildEditorConfig.editorconfig
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.AssemblyInfoInputs.cache
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.AssemblyInfo.cs
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.dll
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\ref\SandBoxTool.dll
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.pdb
+\\adir.hull.ac.uk\home\673\673950\Desktop\dev-project course\SandBoxTool\SandBoxTool\obj\Release\net5.0\SandBoxTool.genruntimeconfig.cache
